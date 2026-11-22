@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Valeri Tenev, student developer from Burgas. Python, FastAPI, Flask. Robo Liga 1st and 3rd place. Open to junior and intern developer roles.">
 
-<a href="https://www.linkedin.com/in/valeri-tenev-093044451/"><img src="https://img.shields.io/badge/LinkedIn-Valeri_Tenev-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:tenevv55@gmail.com"><img src="https://img.shields.io/badge/Email-tenevv55%40gmail.com-ff6a2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Burgas-Bulgaria-12151a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Burgas, Bulgaria">
+<a href="https://www.linkedin.com/in/valeri-tenev/"><img src="https://img.shields.io/badge/LinkedIn-Valeri_Tenev-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:tenevv55@gmail.com"><img src="https://img.shields.io/badge/Email-tenevv55%40gmail.com-ff6a2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Burgas-Bulgaria-12151a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Burgas, Bulgaria">
 <!-- After deploying the portfolio, add:
 <a href="https://YOUR-SITE"><img src="https://img.shields.io/badge/Portfolio-valeri.tenev-12151a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 -->
@@ -87,6 +87,8 @@ A new Roblox obby tower **every day**, generated from the date so it's identical
 - Server-side timer, in-order checkpoints, anti-cheat
 - Streaks, weekday modifiers (low gravity Tuesday, rising lava Wednesday…)
 - 36 server services, ~25k lines of strict Luau
+
+**My part:** tower generator, anti-cheat, player data (ProfileStore), shop + Robux purchases, UI framework. **Alex:** leaderboard, streaks, daily rollover. Built with Claude Code writing most of the code; we designed, reviewed and playtested.
 </details>
 
 </td>
