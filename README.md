@@ -3,9 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Valeri Tenev, student developer from Burgas. Python, FastAPI, Flask. Robo Liga 1st and 3rd place. Open to junior and intern developer roles.">
 
 <a href="https://www.linkedin.com/in/valeri-tenev/"><img src="https://img.shields.io/badge/LinkedIn-Valeri_Tenev-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:tenevv55@gmail.com"><img src="https://img.shields.io/badge/Email-tenevv55%40gmail.com-ff6a2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Burgas-Bulgaria-12151a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Burgas, Bulgaria">
-<!-- After deploying the portfolio, add:
-<a href="https://YOUR-SITE"><img src="https://img.shields.io/badge/Portfolio-valeri.tenev-12151a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
--->
+<a href="https://valeri-tenev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-valeri--tenev.vercel.app-ff6a2b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio: valeri-tenev.vercel.app"></a>
 
 </div>
 
